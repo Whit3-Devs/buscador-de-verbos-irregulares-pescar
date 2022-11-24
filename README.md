@@ -12,7 +12,7 @@ Podrás:
 
 
 ## Capturas
-![Screenshot-Search-Irrgular Verbs](https://prnt.sc/wBsmwdjZvKIk)
+<img src="https://github.com/Whit3-Devs/buscador-de-verbos-irregulares-pescar/blob/master/public/images/capturedisplay.png?raw=true" alt="Imagen de captura de la aplicaicon"/>
 
 ## Tecnologías
 - React
