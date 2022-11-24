@@ -168,6 +168,13 @@ export const dataVerbIrregulars = [
     meaning: 'atrapar, asir, tomar'
   },
   {
+    id: 2322,
+    infinitive: 'can',
+    pastSimple: 'cloud',
+    pastParticiple: 'caught',
+    meaning: 'poder, enlatar, saber, envasar, hacer poder, tener posibilidad'
+  },
+  {
     id: 24,
     infinitive: 'choose',
     pastSimple: 'chose',

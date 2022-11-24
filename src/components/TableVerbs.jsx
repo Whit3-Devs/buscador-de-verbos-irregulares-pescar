@@ -31,7 +31,7 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
 
 export default function TableVerbs({dataVerbIrregulars}) {
   return (
-    <TableContainer component={Paper}>
+    <TableContainer component={Paper} sx={{marginBottom: '4rem'}}>
       <Table sx={{ minWidth: 700, maxHeight: '700px' }} aria-label="customized table">
         <TableHead>
           <TableRow>
